@@ -5,7 +5,7 @@ Thank you for your interest in our app!
 ## Download the Lmz Tools App
 Click the link below to download the latest version of our app:
 
-[Click Here to Download APK](https://github.com/Johnleo20/Lmz-Tools/raw/refs/heads/main/Lmz%20Tools%2011.7.apk)
+[Click Here to Download APK](https://github.com/Johnleo20/Lmz-Tools/raw/refs/heads/main/Lmz%20Tools%2011.8.apk)
 
 ---
 
@@ -27,7 +27,7 @@ The Lmz Tools App is a powerful tool designed for Mobile Legends: Bang Bang play
 
 *Note: The use of third-party tools may violate the Terms of Service of Mobile Legends: Bang Bang. Use at your own discretion.*
 
-*   **Version:** 11.7
+*   **Version:** 11.8
 *   **Compatibility:** Android 5.0+ (Please verify your device's minimum OS requirement)
 
 ## How to Use
